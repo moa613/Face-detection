@@ -1,6 +1,6 @@
 # import packages
 import numpy as np
-import cv2
+import cv3
 import argparse
 
 # construct the argument parse
